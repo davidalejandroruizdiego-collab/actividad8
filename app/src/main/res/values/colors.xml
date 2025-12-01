@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+
+    <color name="communication_primary">#007BFF</color>
+    <color name="communication_dark">#003B73</color>
+    <color name="communication_success">#28A745</color>
+
+    <color name="alert_danger">#DC3545</color>
+    <color name="alert_warning">#FFC107</color>
+    <color name="alert_urgent">#FD7E14</color>
+
+    <color name="structure_background">#FFFFFF</color>
+    <color name="structure_text">#212529</color>
+
 </resources>
